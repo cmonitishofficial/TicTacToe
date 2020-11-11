@@ -2,4 +2,6 @@
     <string name="app_name">TicTacToe</string>
     <string name="welcome">WelCome To TicTacToe Game</string>
     <string name="grid">Grid</string>
+    <string name="playX">X-Turn Tap To Play</string>
+    <string name="playO">O-Turn Tap To Play</string>
 </resources>
